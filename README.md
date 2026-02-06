@@ -1,6 +1,12 @@
 # Homebrew Scripts
 
-## Scripts
+## Casks
+
+### Buildkite Notifier
+
+A MacOS Menu bar app to keep track of your current buildkite runs
+
+## Formulas
 
 ### git-branch-tidy
 
