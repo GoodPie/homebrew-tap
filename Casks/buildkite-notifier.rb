@@ -1,6 +1,6 @@
 cask "buildkite-notifier" do
-    version "0.0.5"
-    sha256 "b4d9af325b97097be82de225497a5bb0758de8ee06c938a23a1879d99c18c4ee"
+    version "1.0.0"
+    sha256 "883329bb8eed669a05a2c12e77d2f412bc340387669f7966408bfed49e11c43c"
 
     url "https://github.com/GoodPie/buildkite-build-notifier/releases/download/v#{version}/BuildkiteNotifier.zip"
     name "Buildkite Notifier"
